@@ -1,0 +1,26 @@
+footer {
+  clear: both;
+  padding-top: 1rem;
+  margin: 0;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
+  background: rgba(0, 0, 0, .95);
+}
+
+footer img {  
+  display: block;
+  padding: .5rem;
+}
+
+#logoIF {
+  width: 3rem;
+}
+
+p{
+  font-size: 13pt;
+}
+
+ol{
+  font-size: 13pt;
+}
